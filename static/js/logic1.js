@@ -16,16 +16,16 @@ let map = L.map('mapid').setView([37.6213, -122.3790], 5);
 
 // Coordinates for each point to be used in the polyline.
 let line = [
-    [33.9416, -118.4085],
-    [37.6213, -122.3790],
-    [40.7899, -111.9791],
-    [47.4502, -122.3088]
+    [40.6413, -73.7781],
+    [43.6777, -79.6248],
+    [30.1975, -97.6664],
+    [37.6213, -122.3790]
   ];
 
 
 // Create a polyline using the line coordinates and make the line black.
 L.polyline(line, {
-    color: "yellow"
+    color: "blue"
  }).addTo(map);
 
 
