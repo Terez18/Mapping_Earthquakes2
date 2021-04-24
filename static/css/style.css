@@ -7,3 +7,22 @@ body,
   margin: 0;
 }
 
+<<<<<<< HEAD
+=======
+.legend {
+  padding: 10px;
+  line-height: 18px;
+  color: #555;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+
+}
+>>>>>>> d074f85881a78aefc98be700d13d0ac80edd70e0
